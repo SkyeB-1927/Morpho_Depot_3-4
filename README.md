@@ -2,7 +2,7 @@
 This repository is for use in the MorphoDepot SlicerMorph workshop. 
 
 ## Who am I?
-My name is Skye Bixler and I am a staff member at Penn State Hershey College of Medicine. Having graduated with my masters in bioinformatics and a bachelors in biotechnology I enjoy both the wet lab side of science and the technical data analysis side. My interests lie in virology, developmental biology, and 3D modeling utilizing machine learning and AI. 
+My name is Skye Bixler and I am a staff member at Penn State Hershey College of Medicine. Having graduated with my masters in bioinformatics and a bachelors in biotechnology I enjoy both the wet lab side of science and the technical data analysis side. My interests lie in virology, developmental biology, sequencing technologies and 3D modeling utilizing machine learning and AI. 
 
 ## What do I hope to get out of this workshop?
 I hope to gain experience in AI assisted semi automated and automated 3D segmentation in order to develop a higher throughput pipeline for the processing and analyses of micro-CT data. 
